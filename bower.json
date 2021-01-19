@@ -23,12 +23,17 @@
     "radio",
     "disabled"
   ],
-  "license": "GNU GPL v3",
   "ignore": [
     "**/.*",
     "node_modules",
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "licenses" : [    
+    {
+      "type": "GPL",
+      "url": "http://www.opensource.org/licenses/gpl-license.php"
+    }
+  ],
 }
