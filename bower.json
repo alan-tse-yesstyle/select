@@ -30,10 +30,5 @@
         "test",
         "tests"
     ],
-    "licenses": [
-        {
-            "type": "GPL",
-            "url": "http://www.opensource.org/licenses/gpl-license.php"
-        }
-    ]
+    "licenses": ["GPL"]
 }
